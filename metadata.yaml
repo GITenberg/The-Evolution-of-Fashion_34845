@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '37270'
     url: http://www.gutenberg.org/2009/agents/37270
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34845#The-Evolution-of-Fashion
 gutenberg_issued: '2011-01-04'
 gutenberg_type: Text
 identifiers:
