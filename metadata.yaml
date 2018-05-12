@@ -1,0 +1,25 @@
+_repo: The-Evolution-of-Fashion_34845
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34845-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Gardiner, Florence Mary
+    gutenberg_agent_id: '37270'
+    url: http://www.gutenberg.org/2009/agents/37270
+description: ''
+gutenberg_issued: '2011-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34845'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GT'
+- !lcsh 'Fashion -- History'
+- !lcsh 'Costume -- History'
+title: The Evolution of Fashion
+url: http://www.gutenberg.org/ebooks/34845
